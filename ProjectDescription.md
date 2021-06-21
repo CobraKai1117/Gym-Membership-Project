@@ -1,0 +1,3 @@
+In this project, I am a manager of a local gym and am entering in new membership information into the database. This project will allow me to add/delete users as well as edit their information.
+
+This is a mini project I created to get familiar with Visual Studio and the MVC design pattern. It is heavily simplified and avoids common features such as User Authentication and Authorization. I am primarily focused on learning how to build a database, how MVC interact/work and understanding how visual studio works a bit better.
